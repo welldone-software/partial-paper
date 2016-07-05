@@ -1,0 +1,25 @@
+{
+  "name": "partial-paper",
+  "description": "Partial components from paper.js",
+  "version": "1.0.0",
+  "author": "Welldone Software Solutions Ltd. <danikenan@gmail.com> (http://welldone-software.com)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:welldone-software/partial-paper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/welldone-software/partial-paper/issues"
+  },
+  "keywords": [
+    "paper",
+    "matrix",
+    "matrices",
+    "point",
+    "paper.js"
+  ],
+  "homepage": "https://github.com/welldone-software/partial-paper#readme",
+  "dependencies": {
+    "straps": "^1.9.0"
+  }
+}
