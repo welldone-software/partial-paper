@@ -6,7 +6,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git@github.com:welldone-software/partial-paper.git"
+    "url": "https://github.com/welldone-software/partial-paper.git"
   },
   "bugs": {
     "url": "https://github.com/welldone-software/partial-paper/issues"
