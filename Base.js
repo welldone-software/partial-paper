@@ -17,7 +17,7 @@
  */
 // Extend Base with utility functions used across the library.
 
-var Base = require('./straps')
+var Base = require('straps')
 
 Base = Base.inject(/** @lends Base# */{
     /**
