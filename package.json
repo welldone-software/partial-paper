@@ -1,7 +1,7 @@
 {
   "name": "partial-paper",
   "description": "Partial components from paper.js",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "Welldone Software Solutions Ltd. <danikenan@gmail.com> (http://welldone-software.com)",
   "main": "index.js",
   "repository": {

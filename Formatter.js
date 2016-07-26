@@ -15,7 +15,7 @@
  * @class
  * @private
  */
-var Base = require('./Base')
+var Base = require('straps')
 
 var Formatter = Base.extend(/** @lends Formatter# */{
     /**
