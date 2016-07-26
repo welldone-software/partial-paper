@@ -25,6 +25,7 @@
  */
 
 var Base = require('./Base')
+var Formatter = require('./Formatter')
 
 var Point = Base.extend(/** @lends Point# */{
     _class: 'Point',

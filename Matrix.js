@@ -41,6 +41,7 @@
 
 var Base = require('./Base')
 var Point = require('./Point').Point
+var Formatter = require('./Formatter')
 
 var Matrix = Base.extend(/** @lends Matrix# */{
     _class: 'Matrix',
