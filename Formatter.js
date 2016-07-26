@@ -15,6 +15,8 @@
  * @class
  * @private
  */
+var Base = require('./Base')
+
 var Formatter = Base.extend(/** @lends Formatter# */{
     /**
      * @param {Number} [precision=5] the amount of fractional digits
